@@ -4,7 +4,6 @@
 
 This demo will show us how to authenticate a user by using phone number.
 
-![Flutter Firebase Phone Authentication Demo](flutter_phone_auth.gif)
 
 ## Setup
 
